@@ -1,0 +1,2 @@
+If hardwarre support flash attention run additionaly:
+pip install flash-attn==2.7.3 --no-build-isolation
